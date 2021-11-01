@@ -1,0 +1,70 @@
+body
+{
+  color: white;
+  background:#E14F4F;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px outset lightsteelblue;
+  border-width: 10px;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color:white;
+  font-family: 'Swanky and Moo Moo', cursive;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.transformtog:hover{
+transform: scale(1.1, 1.1);
+}
+#heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 6px;
+  /*padding: 10px;
+  padding-right: 30px;
+  padding-left:30px;*/
+  width: 70%;
+  height: 130px;
+  border-width: 20px;
+  border-style:double;
+
+}
+
+#heading:hover{
+  transform: scale(1.15, 1.15);
+}
+
+label{
+  font-size: 18px;
+  color:white;
+  background-color:rgb(119, 34, 34);
+  padding:6px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  font-family: 'IM Fell English SC', serif;
+
+}
+
+
+
+#title{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;  
+}
+
